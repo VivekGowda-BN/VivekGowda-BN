@@ -1,11 +1,117 @@
-<h1 align="center">Heyyyyyyyyy👋, I'm Vivek Gowda BN</h1>
-<h3 align="center">Aspiring Full-Stack Developer</h3>
 
-- 📫 How to reach me **vivekgowdabn444@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 style="letter-spacing:3px;">
+V I V E K  &nbsp; G O W D A - B N
+</h1>
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
+
+
+</div>
+
+---
+
+# ⚡ Languages, Tools & Technologies
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 🎨 Development
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🖥 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄 Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🛠 Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+---
+
+<div align="center">
+
+## 🌐 Connect with me!
+
+<br>
+
+<table width="60%">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="YOUR_LINKEDIN" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+
+<br>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="YOUR_TWITTER" target="_blank">
+
+<img src="https://img.shields.io/badge/Twitter-Build%20in%20Public-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"/>
+
+<br>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Build%20stuffs%20that%20matters.-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7"/>
+
+</div>
